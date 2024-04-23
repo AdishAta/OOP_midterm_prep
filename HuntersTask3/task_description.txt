@@ -1,0 +1,22 @@
+Given a file containing data of huntings. Each line of the file consists of the name of the hunter,
+, the species and weight of the animal shot by the given hunter at the given
+hunting. The file is sorted by hunter name.
+task 1 : How many hunters have shot rabbit ?
+task2: Count the hunters who shot a rabbit at each of his/her huntings and the total weight of animals shot by the hunter is greater than 250 kg
+task3 H.W :Decide, whether every hunter has shot a bear at any of his/her hunting.
+
+input file looks like :
+Carl bear 100
+Carl rabbit 200
+Carl deer 100
+Joseph rabbit 2
+Steve deer 100
+Steve bear 300
+
+first task:
+Carl true
+Joseph true
+Steve false
+output: 2
+
+
